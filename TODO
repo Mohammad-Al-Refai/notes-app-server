@@ -1,0 +1,11 @@
+
+Todo:
+  ✔ configration for mongodb @done(22-02-04 13:28)
+  ✔ files arrangment @done(22-02-04 13:28)
+  ✔ api for login @done(22-02-04 15:10)
+  ✔ api for register @done(22-02-04 13:28)
+  ✔ api for create note (title,description) @done(22-02-04 13:29)
+  ✔ api for update note @done(22-02-04 13:29)
+  ✔ api for get all notes @done(22-02-04 15:10)
+  ✔ api for delete note @done(22-02-04 15:10)
+
