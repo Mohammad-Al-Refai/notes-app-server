@@ -13,11 +13,17 @@ npm install
 
 <details>
  
-  <summary>start mongodb server</summary>
-  
-```bash
+  <summary>mongodb configration</summary>
+ 
+- start mongodb server
+ 
+ ```bash
 sudo systemctl start mongod
 ```
+- create database named "Notes" 
+- add users collection
+- add items collection
+
   
 </details>
 
